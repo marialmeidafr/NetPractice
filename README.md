@@ -1,6 +1,6 @@
 <h1 align="center"> NetPractice </h1>
 
-<p align="center"> <img src="https://media.giphy.com/media/UZQCbV4OW1mXdHJNPS/giphy.gif" alt="NetPractice gif" width="400" /> </p>
+<p align="center"> <img src="https://media.giphy.com/media/UZQCbV4OW1mXdHJNPS/giphy.gif" alt="NetPractice gif" width="300" /> </p>
 
 ## Table of contents
 
