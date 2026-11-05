@@ -1,5 +1,7 @@
 # NetPractice
 
+<p align="center"> <img src="https://media.giphy.com/media/UZQCbV4OW1mXdHJNPS/giphy.gif" alt="NetPractice gif" width="400" /> </p>
+
 ## Table of contents
 
 - [Description](#description)
